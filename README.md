@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-[株式会社ベガコーポレーション](https://www.vega-c.com/)で越境ECプラットフォーム事業の開発責任者をしています。
+[株式会社ベガコーポレーション](https://www.vega-c.com/)で[越境ECプラットフォーム事業](https://dokodemo.world/)の開発責任者をしています。
 
 個人では、[MTGカードゲームサイト](https://mtg.deckup.cards/)のサイト開発と運営をしています。
 
