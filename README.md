@@ -8,7 +8,9 @@
 
 ## Get in touch
 
-- https://github.com/teamys-yas
-- https://qiita.com/takasu_mtg
-- https://twitter.com/deck_up
-- https://twitter.com/TeamYs_MTG
+- [Facebook](https://www.facebook.com/yasuhiro.matsuo.923)
+- [Github](https://github.com/teamys-yas)
+- [Qiita](https://qiita.com/takasu_mtg)
+- Twitter
+  - https://twitter.com/deck_up
+  - https://twitter.com/TeamYs_MTG
