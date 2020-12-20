@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi there! 👋
 
-<!--
-**teamys-yas/teamys-yas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[株式会社ベガコーポレーション](https://www.vega-c.com/)で越境ECプラットフォーム事業の開発責任者をしています。
 
-Here are some ideas to get you started:
+個人では、[MTGカードゲームサイト](https://mtg.deckup.cards/)のサイト開発と運営をしています。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![teamys-yas's github stats](https://github-readme-stats.vercel.app/api?username=teamys-yas&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+## Get in touch
+
+- https://github.com/teamys-yas
+- https://qiita.com/takasu_mtg
+- https://twitter.com/deck_up
+- https://twitter.com/TeamYs_MTG
