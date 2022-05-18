@@ -13,8 +13,8 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=teamys-yas&theme=vue)
 
 <details><summary>This year's commit</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=teamys-yas&include_all_commits=true&theme=dracula&count_private=true" alt="teamys-yas's all commit"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=teamys-yas&include_all_commits=true&theme=vue&count_private=true" alt="teamys-yas's all commit"/>
 </details>
 <details><summary>Most used language</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teamys-yas&layout=compact&theme=dracula&count_private=true" alt="teamys-yas's use language"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teamys-yas&layout=compact&theme=vue&count_private=true" alt="teamys-yas's use language"/>
 </details>
