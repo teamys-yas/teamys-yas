@@ -5,7 +5,7 @@
 [![](https://img.shields.io/badge/Twitter-deck_up-1C9BEF)](https://twitter.com/deck_up)
 [![](https://img.shields.io/badge/Twitter-TeamYs_MTG-1C9BEF)](https://twitter.com/TeamYs_MTG)
 
-- 株式会社よりそうでシステム開発をしています。
+- [株式会社よりそう](https://www.yoriso.com/)でシステム開発をしています。
 - 個人では[MTGカードゲームサイト DECK-UP](https://mtg.deckup.cards/)の開発と運営をしています。
 
 ---
