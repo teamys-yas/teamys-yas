@@ -1,6 +1,6 @@
 # Hi there! 👋
 [![](https://img.shields.io/badge/Facebook-yasuhiro.matsuo.923-3B5998)](https://www.facebook.com/yasuhiro.matsuo.923)
-[![](https://img.shields.io/badge/Github-teamys-yas)](https://github.com/teamys-yas)
+[![](https://img.shields.io/badge/Github-teamys--yas-24292E)](https://github.com/teamys-yas)
 [![](https://img.shields.io/badge/Qiita-takasu_mtg-55C500)](https://qiita.com/takasu_mtg)
 [![](https://img.shields.io/badge/Twitter-deck_up-1C9BEF)](https://twitter.com/deck_up)
 [![](https://img.shields.io/badge/Twitter-TeamYs_MTG-1C9BEF)](https://twitter.com/TeamYs_MTG)
